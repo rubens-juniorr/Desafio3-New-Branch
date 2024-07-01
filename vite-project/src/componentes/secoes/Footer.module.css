@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    color: #FFF !important;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    margin-left: 355px;
+}
+.info{
+    margin: 20px;
+}
+.footer ul{
+    display: flex;
+    list-style: none;
+    margin-left: 150px;
+}
+.footer li{
+    margin: 2em;
+   
+}
+.footer a{
+    color: #FFF;
+}

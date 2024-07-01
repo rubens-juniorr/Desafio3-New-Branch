@@ -1,0 +1,25 @@
+.button {
+    background: linear-gradient(270deg,
+            #13ADC7 0%,
+            #6978D1 66.67%,
+            #945DD6 100%);
+    border: none;
+    padding: 10px;
+    border-radius: 18px;
+    font-weight: bolder;
+    margin-top: 40px;
+    cursor: pointer;
+    color: #FFF;
+    display: flex;
+    width: 125px;
+    text-align: right;
+    margin: 0px;
+    margin-top: 20px;
+    
+    
+}
+
+.button:hover {
+    transform: translateY(-7px);
+    transition-duration: 1.0s;
+}

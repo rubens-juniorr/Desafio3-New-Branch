@@ -1,0 +1,23 @@
+.container {
+  color: #fff;
+  margin: 50px;
+  
+}
+.edcard {
+  display: grid;
+  grid-template-columns: 360px 550px;
+  justify-content: center;  
+  margin: 50px;
+  margin-top: 70px;
+}
+.edcard h1{
+  margin-top: 15px;
+  margin-right: -400px;
+  font-size: 40px;
+}
+h1 {
+  padding: 0;
+  margin-left: -28px;
+
+  color: #fff;
+}

@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  background-color: #0f1624;
+}
+.navbar ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  height: 50px;
+}
+.navbar a{
+    color: #fff !important;
+}
+
+li :link {
+  text-decoration: none;
+}
+
+.Container li {
+  text-decoration: none;
+  margin: 8px;
+}
+
+.Container ul {
+  margin-right: 150px;
+}
+.alinhar li {
+  margin: 60px;
+}
+.alinhar ul {
+  margin-left: 300px;
+}
