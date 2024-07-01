@@ -1,12 +1,5 @@
 {
   "rewrites": [
-    {
-      "src": "/",
-      "dest": "/"
-    },
-    {
-        "src": "/App.jsx",
-        "dest": "/"
-    }
+      {"source": "/(.*)", "destination": "/"}
   ]
 }
